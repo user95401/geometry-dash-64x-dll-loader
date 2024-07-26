@@ -1,5 +1,6 @@
 # geometry-dash-x64-dll-loader
 The XInput1_4 proxy dll loader for Geometry Dash 2.206 and up.
+
 Also you can open console holding `CTRL` at game launch.
 
 Loader Install:
